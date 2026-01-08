@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Xin chào! Đây là website miễn phí trên GitHub của tôi.</h1>
+<p>Được tạo bởi GitHub Pages.</p>
+</body>
+</html>
